@@ -1,0 +1,12 @@
+### A box contains 27 marbles some are blue and others are green. If a marble is drawn at random from the box, the probability that it is blue is 1 / 3. How many green marbles are there in the box?
+
+Solution - Given that,
+
+ total Marbles = 27
+ P(b) = 1/3
+ Green marbles =?
+
+ P(b) = blue / total
+ 1/3 = blue / 27
+ blue = 9
+ then , Answer - (green = 18) 
